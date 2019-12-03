@@ -1,5 +1,5 @@
 # Simple Node Modules
 
-Contains simple node modules, no server
+Create simple Node.js modules with no server
 
 Learn about `require` and `module.exports`!
